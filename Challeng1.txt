@@ -1,2 +1,3 @@
 Hello World from Challenge 1
 Hello world, im ${NAME}
+the variable did not resolve :(
